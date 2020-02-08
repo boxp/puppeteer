@@ -9,7 +9,7 @@
                  [com.stuartsierra/component "0.3.2"]
                  [org.julienxx/clj-slack "0.5.5"]
                  [slack-rtm "0.1.5"]
-                 [cheshire "5.7.1"]
+                 [cheshire "5.10.0"]
                  [circleci/clj-yaml "0.5.5"]
                  [tentacles "0.5.1"]
                  [org.clojure/tools.namespace "0.2.10"]

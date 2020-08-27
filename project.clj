@@ -14,7 +14,7 @@
                  [tentacles "0.5.1"]
                  [org.clojure/tools.namespace "0.2.10"]
                  [com.amazonaws/aws-java-sdk-dynamodb "1.11.95"]
-                 [com.taoensso/faraday "1.8.0"
+                 [com.taoensso/faraday "1.11.1"
                   :exclusions [[com.amazonaws/aws-java-sdk-dynamodb]]]
                  [io.fabric8/kubernetes-client "2.5.6"]
                  [io.fabric8/kubernetes-model "1.1.0"]

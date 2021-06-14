@@ -13,7 +13,7 @@
                  [circleci/clj-yaml "0.5.5"]
                  [tentacles "0.5.1"]
                  [org.clojure/tools.namespace "0.2.10"]
-                 [com.amazonaws/aws-java-sdk-dynamodb "1.11.95"]
+                 [com.amazonaws/aws-java-sdk-dynamodb "1.12.6"]
                  [com.taoensso/faraday "1.8.0"
                   :exclusions [[com.amazonaws/aws-java-sdk-dynamodb]]]
                  [io.fabric8/kubernetes-client "2.5.6"]

@@ -21,7 +21,7 @@
                  [com.google.guava/guava "22.0"]
                  [com.google.auth/google-auth-library-oauth2-http "0.6.1"]
                  [com.google.auth/google-auth-library-credentials "0.6.1"]
-                 [com.google.cloud/google-cloud-pubsub "0.20.1-beta"
+                 [com.google.cloud/google-cloud-pubsub "1.113.3"
                   :exclusions [com.google.auth/google-auth-library-oauth2-http
                                com.google.auth/google-auth-library-credentials
                                com.google.guava/guava]]
